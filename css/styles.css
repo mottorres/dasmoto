@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica;
+}
+
+header {
+    background-image: url("../img/dasmotos-arts_redline.jpeg");
+    margin: 50px 10px;
+    padding: 10px 70px;
+    /*height: 150px;*/
+    display: block;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    display: block;
+}
+
+
+section {
+    margin: 30px 10px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+    
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paints h2 {
+    background-color: skyblue;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
